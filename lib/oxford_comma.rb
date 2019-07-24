@@ -1,3 +1,5 @@
 def oxford_comma(array)
-if array.length == log10
+if array.length == 1
+  array.join
+elsif array.length == 
 end
